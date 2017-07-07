@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "932454204351",
+    "firebase_url": "https://birthdaymessage-47996.firebaseio.com",
+    "project_id": "birthdaymessage-47996",
+    "storage_bucket": "birthdaymessage-47996.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:932454204351:android:44ed6d37aeac9fb7",
+        "android_client_info": {
+          "package_name": "com.example.nandinilaad.birthdaymessage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "932454204351-9nhtve6q3fbbcvkaf1vfevbc6ks2idlf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvWGOIka8LIWHNKvIIYvt6fBUASBfLOyc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
